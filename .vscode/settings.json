@@ -1,0 +1,12 @@
+{
+    "csharp.format.enable": true,
+    "omnisharp.useModernNet": true,
+    "editor.formatOnSave": true,
+    "files.exclude": {
+        "**/bin": true,
+        "**/obj": true
+    },
+    "terminal.integrated.shell.linux": "/bin/bash",
+    "omnisharp.enableRoslynAnalyzers": true,
+    "omnisharp.enableEditorConfigSupport": true
+}
