@@ -1,0 +1,6 @@
+/home/aaron/BADBEE/Active-Projects/The-Fowl-Protocol/FowlProtocolGame/obj/Debug/net8.0/FowlProtocolGame.csproj.AssemblyReference.cache
+/home/aaron/BADBEE/Active-Projects/The-Fowl-Protocol/FowlProtocolGame/obj/Debug/net8.0/FowlProtocolGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/aaron/BADBEE/Active-Projects/The-Fowl-Protocol/FowlProtocolGame/obj/Debug/net8.0/FowlProtocolGame.AssemblyInfoInputs.cache
+/home/aaron/BADBEE/Active-Projects/The-Fowl-Protocol/FowlProtocolGame/obj/Debug/net8.0/FowlProtocolGame.AssemblyInfo.cs
+/home/aaron/BADBEE/Active-Projects/The-Fowl-Protocol/FowlProtocolGame/obj/Debug/net8.0/FowlProtocolGame.csproj.CoreCompileInputs.cache
+/home/aaron/BADBEE/Active-Projects/The-Fowl-Protocol/FowlProtocolGame/obj/Debug/net8.0/FowlProtocolGame.sourcelink.json
